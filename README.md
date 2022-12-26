@@ -1,6 +1,6 @@
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Paola!</h1>
-<p align = "justify">I'm becomming a Software Developer, so I'm a intern at Avanade Brazil. </p>
-<p align = "justify">I like study about Javascript, NodeJS e C#.</p>
+<p align = "justify">I'm a Software Developer in Avanade Brazil. </p>
+<p align = "justify">I study back-end development, especially, NodeJs.</p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-paolabasso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paola-basso-421958139/)](https://www.linkedin.com/in/paola-basso-421958139/)
 [![Instagram Badge](https://img.shields.io/badge/-paolasbasso-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/paolasbasso/)](https://www.instagram.com/paolasbasso/)
